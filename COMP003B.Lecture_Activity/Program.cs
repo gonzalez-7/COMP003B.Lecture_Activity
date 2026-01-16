@@ -8,6 +8,7 @@ namespace COMP003B.Lecture_Activity
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello, World");
+			Console.WriteLine("My name is Antonio Gonzalez");
 		}
 	}
 }

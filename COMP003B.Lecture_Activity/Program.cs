@@ -9,6 +9,8 @@ namespace COMP003B.Lecture_Activity
 		{
 			Console.WriteLine("Hello, World");
 			Console.WriteLine("My name is Antonio Gonzalez");
+			Console.WriteLine("Test");
+			Console.WriteLine("Test2");
 		}
 	}
 }
